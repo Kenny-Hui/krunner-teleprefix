@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Telephone Prefix
+Comment=Telephone Prefix Lookup
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=phone-symbolic
+X-KDE-PluginInfo-Website=https://github.com/Kenny-Hui/krunner-teleprefix
+X-KDE-PluginInfo-Author=LX86
+X-KDE-PluginInfo-Email=lx86@lx862.com
+X-KDE-PluginInfo-Name=KRunnerTelePrefix
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL-3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=org.kde.KRunnerTelePrefix
+X-Plasma-DBusRunner-Path=/KRunnerTelePrefix

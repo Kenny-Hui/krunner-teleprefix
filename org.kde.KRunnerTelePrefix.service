@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.kde.KRunnerTelePrefix
+Exec=/usr/bin/python3 "%{PROJECTDIR}/KRunnerTelePrefix.py"
