@@ -1,4 +1,4 @@
-## KRunner Telephone Prefix
+# KRunner Telephone Prefix
 
 A KRunner Plugin that provides lookup for telephone prefix.
 
@@ -6,17 +6,17 @@ A KRunner Plugin that provides lookup for telephone prefix.
 
 # Setup
 ## Install
-For installation, please download and extract to your desired location (Or obtain this code in any form).
-Then run `./install.sh`, after that this plugin should show up.
+For installation, please download and extract to your desired location (Or obtain this code in any form).  
+Then run `./install.sh`, after that this plugin should show up.  
 **This folder is required as it contains the script needed for this to work, do not delete.**
 
 ## Uninstall
 To uninstall, navigate to the same directory, then run `./uninstall.sh`.
 
 # Usage
-Type a telephone prefix (e.g. +852).
+Type a telephone prefix (e.g. +852).  
 If you find any prefix that is missing or mislabeled, please open an issue.
 
 ## Credits
-[List of Telephone Prefixes](https://stackoverflow.com/questions/2530377/list-of-phone-number-country-codes)
-[country-flags (Providing a list of country flags that is used directly in this project)](https://github.com/hampusborgos/country-flags)
+- [List of Telephone Prefixes](https://stackoverflow.com/questions/2530377/list-of-phone-number-country-codes)
+- [country-flags (Providing a list of country flags that is used directly in this project)](https://github.com/hampusborgos/country-flags)
